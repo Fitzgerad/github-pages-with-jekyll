@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Welcome to the `Brave New World`
 
-I'm glad you are here. I plan to talk about ...
+**This is the bold text.**
+
+*This is the Italic text.*
+
+This is the [hyperlink](www.baidu.com)
